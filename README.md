@@ -1,2 +1,2 @@
 # {Zasady gry}
--Otwórz projekt
+- Otwórz projekt
